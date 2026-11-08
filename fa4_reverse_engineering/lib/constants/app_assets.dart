@@ -1,0 +1,1 @@
+const String kLogoAsset = 'assets/images/fireflyLogo.png';
